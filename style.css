@@ -28,11 +28,12 @@ h1 {
 }
 
 h1#title {
-    color:green;
+    color:blue;
 }
 
 .quote {
     color:gray;
+    font-size: 18px;
 }
 
 #mainQuote {
