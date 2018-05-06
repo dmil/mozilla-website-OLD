@@ -33,6 +33,7 @@ h1#title {
 
 .quote {
     color:gray;
+    font-style: intalic; /* own change */
 }
 
 #mainQuote {
